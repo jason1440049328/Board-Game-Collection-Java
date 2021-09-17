@@ -1,0 +1,17 @@
+#Game Saved File
+#Thu Nov 05 00:39:57 EST 2020
+Description=Used for easy testing
+GameType=Checkers
+Player1KingPiece=CheckersPlayer1King.png
+Player2Name=Player 2 Name...
+Player2NormalPiece=CheckersPlayer2.png
+Player2KingPiece=CheckersPlayer2King.png
+CurrentPlayerIndex=0
+Player1Image=BowserJr
+InitialConfiguration=data/savedGridData/broken.csv
+Player2Image=AmongUsRed
+Theme=Duke
+Author=Justin
+Player2=Human
+Player1=Human
+Player1Name=Player 1 Name...

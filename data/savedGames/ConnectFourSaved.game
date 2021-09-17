@@ -1,0 +1,23 @@
+#Game Saved File
+#Sun Nov 22 11:43:51 EST 2020
+Player1NormalPiece=ConnectFourPlayer1.png
+Description=Almost Done\!
+SpecialPiece=false
+PieceMove=AnywhereEmptyColumnMove
+WinConditions=RowWin 4,ColumnWin 4,DiagonalWin 4
+UserEndsTurn=false
+GameType=ConnectFour
+PiecesAreMoved=false
+Player2Name=Loten
+Player2NormalPiece=ConnectFourPlayer2.png
+CurrentPlayerIndex=2
+WinOnEnd=false
+Player1Image=Lucas
+InitialConfiguration=data/savedGridData/ConnectFourSaved.csv
+Player2Image=Mario
+Theme=Christmas
+Author=Jason
+BoardMoveUpdate=UpdateBottomRow
+Player2=Human
+Player1=Human
+Player1Name=Jason
